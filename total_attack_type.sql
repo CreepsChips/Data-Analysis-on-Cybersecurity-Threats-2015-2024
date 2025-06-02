@@ -1,3 +1,8 @@
+-- Total attack based on the attack type
+-- Purpose: to determine what attack type had the highest cases from 2015-2024
+-- Dataset: Global_Cybersecurity_Threats_2015_2024.csv
+-- By CreepsChips
+
 -- Selecting the final query which selects the number of attacks per attack type
 SELECT 
 	attack_type,
